@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "voltagebase-edce1",
+    "staging": "voltagebase-edce1"
+  }
+}
